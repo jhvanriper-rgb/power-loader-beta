@@ -1,6 +1,6 @@
 Terms of use for the free public beta
 
-Transaction Loader 0.1.0 public beta. Terms version 2026-11-18.
+Power Loader 0.1.1 public beta. Terms version 2026-11-18b.
 
 In short: this beta is free to try. You use it at your own risk. The author accepts no responsibility for data errors, lost data or any other loss that comes from using it. Try it on a test system first.
 
@@ -8,7 +8,7 @@ By pressing I accept, or by using the Program, you agree to these terms. If you 
 
 1. What this is
 
-Transaction Loader (the "Program") is free beta software. A person works through a SAP GUI transaction once. The Program records the screens, writes an Excel template and a loader script, and then loads the rows of a filled workbook into SAP by pressing the same buttons and keys. It uses the SAP GUI Scripting interface and the authorizations of the user who is logged in to SAP. It does not get around any SAP check.
+Power Loader (the "Program") is free beta software. A person works through a SAP GUI transaction once. The Program records the screens, writes an Excel template and a loader script, and then loads the rows of a filled workbook into SAP by pressing the same buttons and keys. It uses the SAP GUI Scripting interface and the authorizations of the user who is logged in to SAP. It does not get around any SAP check.
 
 2. Free license
 
